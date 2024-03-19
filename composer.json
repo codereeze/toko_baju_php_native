@@ -1,0 +1,16 @@
+{
+    "name": "hp/toko_baju_php_native",
+    "description": "Toko Baju Online",
+    "autoload": {
+        "psr-4": {
+            "Hp\\TokoBajuPhpNative\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "neibreen",
+            "email": "azfaalharits25@gmail.com"
+        }
+    ],
+    "require": {}
+}
